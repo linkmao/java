@@ -1,0 +1,47 @@
+// Nacimiento 04 enero de 2010
+// Objetivo: Integrar la interfaz grafica con una clase 
+/* Descripcion. 
+*/
+
+
+import javax.swing.JLabel;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JTextField;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.awt.FlowLayout;
+
+
+
+public class Interfaz extends JFrame {
+	// declaracion de variables de instancia
+	private JTextField tPrimerNombre;
+	private JTextField tSegundoNombre;
+	private JTextField tPrimerApellido;
+	private JTextField tSegundoApellido;
+	private JTextField tEdad;
+	private JTextField tID;
+	private JTextField tGrado;
+	
+	
+	private JLabel lPrincipal;
+	private JLabel lPrimerNombre;
+	private JLabel lSegundoNombre;
+	private JLabel ltPrimerApellido;
+	private JLabel lSegundoApellido;
+	private JLabel lEdad;
+	private JLabel lID;
+	private JLabel lGrado;
+	
+	
+	private JButton bGuardar;
+	
+	// Metodo constructor
+	public Interfaz () {
+		super("Integracion de GUI - Mi  ejemplo;");
+	}
+	
+	
+
+}

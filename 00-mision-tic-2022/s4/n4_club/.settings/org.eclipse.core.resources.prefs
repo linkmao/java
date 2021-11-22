@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//source/uniandes/cupi2/club/interfaz/InterfazClub.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/interfaz/PanelAutorizados.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/interfaz/PanelFacturas.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/interfaz/PanelListaSocios.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/mundo/Club.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/mundo/Factura.java=ISO-8859-1
+encoding//source/uniandes/cupi2/club/mundo/Socio.java=ISO-8859-1
+encoding//test/source/uniandes/cupi2/club/test/ClubTest.java=ISO-8859-1
+encoding//test/source/uniandes/cupi2/club/test/SocioTest.java=ISO-8859-1
+encoding/<project>=ISO-8859-1

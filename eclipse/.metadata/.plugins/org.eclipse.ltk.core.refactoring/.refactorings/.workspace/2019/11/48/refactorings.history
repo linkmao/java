@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Polimorfismo herecia y clases abstractas&apos; to &apos;Polimorfismo herencia y clases abstractas&apos;&#x0D;&#x0A;- Original element: &apos;Polimorfismo herecia y clases abstractas&apos;&#x0D;&#x0A;- Renamed element: &apos;Polimorfismo herecia y clases abstractas&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Polimorfismo herecia y clases abstractas&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Polimorfismo herecia y clases abstractas" name="Polimorfismo herencia y clases abstractas" references="true" stamp="1574710015827" version="1.0"/>
+</session>

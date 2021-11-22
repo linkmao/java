@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;poli.Polimorfismo.java&apos; to &apos;Profesor.java&apos;&#x0D;&#x0A;- Original project: &apos;poli&apos;&#x0D;&#x0A;- Original element: &apos;poli.Polimorfismo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;poli.Profesor.java&apos;" description="Rename compilation unit &apos;Polimorfismo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;poli{Polimorfismo.java" name="Profesor.java" references="false" stamp="1574221648025" version="1.0"/>
+</session>
